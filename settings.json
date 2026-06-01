@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "MythicFleet.aternos.me",
+    "port": 49384,
     "version": "",
     "try-creative": false
   },
